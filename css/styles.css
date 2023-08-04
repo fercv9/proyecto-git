@@ -1,26 +1,30 @@
 h1 {
-    color: blue;
+    color: rgb(216, 28, 28);
 
 }
-h4{
-    color:brown;
+
+h4 {
+    color: brown;
 
 }
-h2{
-    color:rgb(163, 29, 107);
-    
+
+h2 {
+    color: rgb(163, 29, 107);
+
 }
-.fondo-negro{
+
+.fondo-negro {
     background-color: black;
 
-    {.color-fot {
-    background-color: rgb(49, 94, 153);
-    color: rgb(255,255,204);
-  }
+        {
+        .color-fot {
+            background-color: rgb(49, 94, 153);
+            color: rgb(255, 255, 204);
+        }
 
-  .portada{
-    font-size: 1rem;
-    text-align: center;
-    font-family: "Lato", sans-serif;
-    color: black;
-  }
+        .portada {
+            font-size: 1rem;
+            text-align: center;
+            font-family: "Lato", sans-serif;
+            color: black;
+        }
